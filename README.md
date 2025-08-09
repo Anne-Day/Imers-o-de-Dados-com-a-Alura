@@ -10,7 +10,7 @@ Durante o curso, criei um **dashboard interativo** com Python, capaz de apresent
 
 ## 🧰 Ferramentas e Tecnologias Utilizadas
 
-- **Python 3.10
+- **Python 3.13.6**
 - **Pandas** – manipulação de dados
 - **NumPy** – operações numéricas
 - **Matplotlib** – visualização de dados
@@ -32,7 +32,7 @@ O projeto final da imersão consistiu na criação de um **dashboard interativo*
 - Visualizar gráficos dinâmicos
 - Explorar dados de forma intuitiva
 
-> ⚠️ *O dashboard foi desenvolvido utilizando ferramentas como Streamlit/Plotly (ou outra usada), tornando-o acessível por navegador e facilitando a navegação entre diferentes análises.*
+> ⚠️ *O dashboard foi desenvolvido utilizando ferramentas como Streamlit/Plotly, tornando-o acessível por navegador e facilitando a navegação entre diferentes análises.*
 
 ## 📎 Como Executar
 
